@@ -17,4 +17,5 @@ document.getElementById('decrease').onclick=function(){
   document.getElementById('reset').onclick=function(){
     counter=0;
     document.getElementById('counter').textContent = counter;
+    
   };
