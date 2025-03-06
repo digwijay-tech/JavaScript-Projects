@@ -13,3 +13,6 @@
 //     username=document.getElementById("input").value;
 //     document.getElementById("head").textContent=`Welcome ${username}`;
 // }
+
+// const PI = 3.14;
+// console.log(PI);
